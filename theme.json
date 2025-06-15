@@ -1,0 +1,12 @@
+{
+  "name": "Twilight Theme",
+  "version": "1.0.0",
+  "author": "Mohammed",
+  "description": "ثيم فخم وجذاب لمتاجر سلة",
+  "screens": {
+    "index": {
+      "name": "الصفحة الرئيسية",
+      "file": "index.html"
+    }
+  }
+}
